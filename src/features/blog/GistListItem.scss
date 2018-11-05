@@ -1,0 +1,8 @@
+@import '../../styles/mixins';
+
+.blog-gist-list-item {
+
+  & + .blog-gist-list-item {
+    margin-top: 2em;
+  }
+}
