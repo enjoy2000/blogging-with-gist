@@ -1,8 +1,8 @@
 # Blogging with Gist
 TODO Add badges
 
-This is a project that I built by (Rekit)[https://github.com/supnate/rekit].
-Which is using (Gist API)[https://developer.github.com/v3/gists/] to create a mini blog with some features:
+This is a project that I built by [Rekit](https://github.com/supnate/rekit).
+Which is using [Gist API](https://developer.github.com/v3/gists/) to create a mini blog with some features:
 - Creating blog with title
 - Listing Comments
 - Adding Comments
